@@ -1,2 +1,14 @@
 # Auto detect text files and perform EOL normalization
 * text=auto
+
+admin/box.coffee export-ignore
+
+debug.php export-ignore
+
+bin export-ignore
+tests export-ignore
+phpunit.xml export-ignore
+.travis.yml export-ignore
+
+docblox.dist.xml export-ignore
+diagrams export-ignore
