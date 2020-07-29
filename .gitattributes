@@ -1,6 +1,11 @@
 # Auto detect text files and perform EOL normalization
 * text=auto
 
+.gitattributes export-ignore
+.gitignore export-ignore
+.gitmodules export-ignore
+.svnignore export-ignore
+
 admin/box.coffee export-ignore
 
 debug.php export-ignore
