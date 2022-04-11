@@ -40,7 +40,7 @@ Links: [**Documentation**](http://github.com/scribu/wp-posts-to-posts/wiki) | [P
 See [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 
 After activating it, refer to the [Basic usage](https://github.com/scribu/wp-posts-to-posts/wiki/Basic-usage) tutorial.
- 
+
 Additional info can be found on the [wiki](http://github.com/scribu/wp-posts-to-posts/wiki).
 
 ## Frequently Asked Questions
@@ -59,6 +59,13 @@ Additional info can be found on the [wiki](http://github.com/scribu/wp-posts-to-
 
 ## Changelog
 
+### 1.6.7 - 2022-04-11
+* Update mustache/mustache to v2.14.1
+* Allow use of either ^1.0 or ^2.0 of composer/installers
+* Disable updates from WordPress.org
+
+### 1.6.6 - 2020-07-29
+* Update mustache/mustache to v2.13.0
 ### 1.6.5
 * fixed error when Mustache is already loaded. props ApatheticG
 * fixed WP_User_Query warning. props PatelUtkarsh
