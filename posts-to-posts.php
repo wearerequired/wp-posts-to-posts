@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Posts 2 Posts
-Description: Create many-to-many relationships between all types of posts.
+Description: Create many-to-many relationships between all types of posts. (Fork)
 Version: 1.6.7
 Author: scribu
 Author URI: http://scribu.net/
-Plugin URI: http://scribu.net/wordpress/posts-to-posts
+Plugin URI: https://github.com/wearerequired/posts-to-posts
 Text Domain: posts-to-posts
 Domain Path: /lang
 Update URI: false
